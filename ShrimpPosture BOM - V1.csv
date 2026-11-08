@@ -1,0 +1,14 @@
+Component,Model,Quantity,Unit Price (COP),Total Price (USD),Purchase Link,Owned/Notes
+Microcontroller,Keyestudio UNO R3,1,0,12.99,https://www.keyestudio.com/products/keyestudio-uno-r3-development-board-for-arduino-official-upgrated-version-with-pin-header-interface,yes/can be changed
+Distance sensor,E18-D80NK,1,"23,500",8.25,https://electronilab.co/tienda/sensor-distancia-proximidad-infrarojo-e18-d80nk-3-80-cm/#tab-additional_information,no
+Servo motor,SG90,1,"10,000",3.09,https://www.mactronica.com.co/servomotor-micro-servo-sg90?variant_id=5514388,no
+Pushbutton,Calibration button,1,"2,500",1,https://www.steren.com.co/switch-de-push-de-boton-cuadrado-normalmente-cerrado.html,no
+Power switch,on/off,1,0,2.13,https://www.mercadolibre.com.co/switch-interruptor-balancin-3-pines-on-off-luz-piloto-2-unid/up/MCOU3151786876?matt_tool=19390127&pdp_filters=item_id%3AMCO1574977881&from=gshop,yes
+Audio module,DFPlayer Mini,1,"11,000",3.4,https://www.mercadolibre.com.co/reproductor-mp3-wav-y-wma-dfplayer-mini/p/MCO2039375008#polycard_client=search-web-mobile&be_origin=backend&search_layout=stack&position=1&type=product&tracking_id=fef45320-d74b-4d0f-acdf-94256babdb5b&wid=MCO585540282&sid=search,no
+Speaker,8 Ohm 3W,1,"14,280",4.41,https://www.mercadolibre.com.co/parlante-speaker-bocina-1w-8ohm-2cm-diametro-tamano-pequeno/up/MCOU2428851917#polycard_client=search-desktop&be_origin=backend&overlay_label=not_apply&search_layout=grid&position=1&type=product&tracking_id=a74cfd55-5eb1-4b75-8303-cc1ee5e62c98&overlay_label_capability=not_apply&wid=MCO560040292&sid=search,no
+Storage,microSD card,1,,,,no/can be removed
+USB cable,USB TO PLUG DC,1,"5,311",1.64,https://www.cvrelectronica.com/description/?product_id=1344,to confirm
+Power supply,5V regulated,1,,0,,To confirm
+Wires and connectors,Model pending,multiple,0,0,,yes
+3D printing,PLA or PETG,-,depends on size,depends on size,,-
+,,,66591,36.91,,
