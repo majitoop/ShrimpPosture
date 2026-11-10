@@ -1,0 +1,12 @@
+Component,Component,Component,Component,Component,Component,Component
+Microcontroller,Keyestudio UNO R3 KS0172,1,"89,964",27.79,https://www.sigmaelectronica.net/producto/ks0172/,HAVE
+Distance Sensor,VL53L0X,1,"17,900",5.53,https://electronilab.co/tienda/vl53l0x-sensor-de-distancia-milimetrica-laser/,New
+Servo Motor,TowerPro SG90,1,"10,000",3.09,https://www.mactronica.com.co/servomotor-micro-servo-sg90,New; check stock
+Calibration Pushbutton,PBS-110,1,"1,600",0.49,https://electronilab.co/tienda/pulsador-de-boton-con-rosca-para-montaje/,New
+ON/OFF Switch,KCD1-101,1,"1,200",0.37,https://electronilab.co/tienda/interruptor-basculante-2-pines/,New
+Audio Module,DFPlayer Mini,1,"18,999",5.87,https://www.mercadolibre.com.co/reproductor-dfplayer-mini-reproductor-mp3-wav-y-wma-arduino/p/MCO2039375008,New
+Speaker,8 Ohm 1W 20mm,1,"14,280",4.41,https://www.mercadolibre.com.co/parlante-speaker-bocina-1w-8ohm-2cm-diametro-tamano-pequeno/up/MCOU2428851917,Previous BOM price; verify
+Storage,MicroSD Card 8GB,1,"13,300",4.11,,Can be used
+Power Supply,9V 2A Adapter,1,"24,500",7.57,https://electronilab.co/tienda/adaptador-de-voltaje-9v-2a/,New
+Voltage Regulator,LM2596,1,"6,900",2.13,https://electronilab.co/tienda/modulo-lm2596-convertidor-de-voltaje-dc-dc-buck-1-25v-35v/,New
+TOTAL,,,"198,643",61.36,,
